@@ -45,7 +45,7 @@ By entering the details you want to know.
 - The data stored is stored with in the System if system crashes it will be hard to restore data sometimes we may loose data.
 
 ### OPPORTUNITIES:
-- Apart from those informations that are mentioned above in the objectives, you can also use your ideas how to take this project to next level by adding more informations like: Add Employee Permanent Address, Bank account details, Generate Salary etc., and also we can store data in interenet data bases.
+- Apart from those informations that are mentioned above in the objectives, you can also use your ideas how to take this project to next level by adding more informations like: Add Employee Permanent Address, Bank account details, Generate Salary etc., and also we can store data in internet data bases.
 
 ### THREATS:
 - inadequacy of infrastructure and hardware.
