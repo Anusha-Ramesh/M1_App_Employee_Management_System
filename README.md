@@ -17,3 +17,8 @@ A Employee’s Management System (EMS) is a software built to handle the primary
 
 ![Code Grade](https://api.codiga.io/project/30754/status/svg)
 
+
+
+![Code quality](https://app.codacy.com/gh/saikumar-gudisa/M1_App_Employee_Management_System/dashboard?branch=main)
+
+
