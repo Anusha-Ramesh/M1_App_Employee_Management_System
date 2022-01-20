@@ -14,3 +14,6 @@ A Employee’s Management System (EMS) is a software built to handle the primary
 
 ![Code Quality Score](https://api.codiga.io/project/30754/score/svg)
 
+
+![Code Grade](https://api.codiga.io/project/30754/status/svg)
+
